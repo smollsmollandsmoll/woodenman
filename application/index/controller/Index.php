@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '<h1>hahh </h1>';
+        return '<h1>1231231 </h1>';
     }
 }
